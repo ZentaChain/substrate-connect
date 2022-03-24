@@ -2583,6 +2583,16 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
+"@substrate/connect@^0.6.3":
+  version "0.6.3"
+  resolved "https://registry.yarnpkg.com/@substrate/connect/-/connect-0.6.3.tgz#0f4e5140b38f359721cedc513fc3ec6477b701fd"
+  integrity sha512-ykK1fvybPkuPQjDwIWaVOhDUQUwZwvPOMssZsxYZMqGw5cj9rIfsOzioX6RkZXstEA/qxc18a6w0nyHr/uPWQg==
+  dependencies:
+    "@polkadot/rpc-provider" "^7.13.1"
+    "@substrate/connect-extension-protocol" "^1.0.0"
+    "@substrate/smoldot-light" "0.6.8"
+    eventemitter3 "^4.0.7"
+
 "@substrate/smoldot-light@0.6.8":
   version "0.6.8"
   resolved "https://registry.yarnpkg.com/@substrate/smoldot-light/-/smoldot-light-0.6.8.tgz#e626e25cd2386824f1164e7d7dda7258580c36e4"

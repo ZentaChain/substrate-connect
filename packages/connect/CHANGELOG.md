@@ -1,6 +1,7 @@
 # Changelog
 
 ## [Unreleased]
+- Remove `createPolkadotJsScClient` and polkadotjs dependencies.
 
 ## 0.6.3 - 2022-03-23
 
